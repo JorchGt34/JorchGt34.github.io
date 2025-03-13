@@ -1,2 +1,3 @@
-# JorchGt34.github.io
-Ejemplo de un Github Page
+# Notas de cariño
+
+## Mensajes de amor que se mandan diariamente para practicar el uso de Github Pages
